@@ -14,11 +14,8 @@ USER:
 
 INFO:
   - label: "Email"
-    value: "anandkarthik255@gmail.com"
+    value: "anand.karthik.work.mail@gmail.com"
     icon: "mail-outline"
-  - label: "Phone"
-    value: "+91 (630) 587-5785"
-    icon: "phone-portrait-outline"
   - label: "Birthday"
     value: "NOV 11, 2002"
     icon: "calendar-outline"
