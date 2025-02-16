@@ -14,10 +14,10 @@ EXPERIENCE:
   label: "Experience"
   items:
     - period: "2022 — Present"
-      position: "Developer Consultant"
+      position: "Developer Consultant @ Oracle"
       description: "Developed real-time applications using React and Node.js for backend infrastructure management. Customized Python scripts for workflow automation, optimized MySQL databases, and integrated RESTful APIs for system interactions."
     - period: "2022 — 2023"
-      position: "Developer Consultant Intern"
+      position: "Developer Consultant Intern @ Oracle"
       description: "Contributed to the development of real-time applications with React and Node.js. Enhanced workflow processes with Python, designed MySQL databases, and supported compliance with safety protocols through monitoring systems."
 
 LANGUAGES:
